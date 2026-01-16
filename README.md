@@ -79,27 +79,4 @@ Contact me: **tothattila5559@gmail.com**
   <br/><br/>
 </details><br/>
 
-# 📊 GitHub Stats
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Atis007&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=Atis007&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atis007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-    </td>
-    <td align="center">
-      <img src="https://github-contributor-stats.vercel.app/api?username=Atis007&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-    </td>
-  </tr>
-</table>
-
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
