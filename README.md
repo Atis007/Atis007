@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🔭 I’m currently working on a project named SoloBlog, with my classmate.<br>🔭 This project will be a modern, open-source blogging platform built with Next.js, Supabase, and Tailwind CSS.<br><br>🌱 I’m currently learning React, Next.js, Tailwind, PHP, and Bootstrap, but I’m also working with a wide range of other technologies such as Supabase, MySQL, TypeScript , React Native, and IoT basics — learning both at VTS and independently.<br>⚡ Fun fact I’m learning far more technologies at the same time than what’s actually required — entirely out of self-motivation, driven by my desire to improve myself and understand how systems work.
 
