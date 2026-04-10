@@ -18,8 +18,8 @@ A group project built by a team of five using Scrum. A BLE attendance system spl
 
 ## What I'm working on
 
-- A personal budget tracking app (React Native + Expo, TypeScript, Fastify, Prisma, SQLite, local AI for spending analysis)
-- Going deeper on backend — Node.js, then Go
+- A personal budget tracking app (React Native + Expo, TypeScript, Express, SQLite, local AI for spending analysis)
+- Going deeper on backend — Node.js, and in the long run Go
 
 ---
 
