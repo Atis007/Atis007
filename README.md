@@ -1,80 +1,35 @@
-# 💫 About Me:
-🔭 I’m currently working on a project named SoloBlog, with my classmate.<br>🔭 This project will be a modern, open-source blogging platform built with Next.js, Supabase, and Tailwind CSS.<br><br>🌱 I’m currently learning React, Next.js, Tailwind, PHP, and Bootstrap, but I’m also working with a wide range of other technologies such as Supabase, MySQL, TypeScript , React Native, and IoT basics — learning both at VTS and independently.<br>⚡ Fun fact I’m learning far more technologies at the same time than what’s actually required — entirely out of self-motivation, driven by my desire to improve myself and understand how systems work.
+# Hey, I'm Attila
 
-<br/><br/>
+I'm a last-year CS student who builds things that are a bit more ambitious than what's usually expected — full-stack systems, mobile apps, AI integrations, and hardware-connected services, mostly because I find the intersection of all of them more interesting than any one piece alone.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/attila-tóth-48581a365)<br>
-Contact me: **tothattila5559@gmail.com**
-<br/><br/><br/>
-
-
-# 💻 Tech Stack
-
-<details>
-  <summary><h3>🟦 ✨ Frontend / UI Development</h3></summary>
-
-  <br/>
-
-  🚀 **Modern and scalable UI technologies**
-
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
-  ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
-
-  <br/><br/>
-</details>
+My main stack is **JavaScript/TypeScript** across the board — React, React Native, Next.js on the frontend, Node.js on the backend — with **PHP 8.4** for REST APIs and Python when the situation calls for it.
 
 ---
 
-<details>
-  <summary><h3>🟩 🛠 Backend / Full-Stack</h3></summary>
+## Projects worth looking at
 
-  <br/>
+### [Ticketflow](https://github.com/Atis007/Ticketflow)
+A full-stack event ticketing platform built across three layers: a PHP 8.4 REST API, a React web frontend, and a React Native mobile app. Features include NBS IPS QR payment integration, role-based access control, real-time seat availability, offline-first mobile check-in with sync, and a FastAPI AI service running locally via Ollama for venue layout generation and admin tooling. Built for two university courses, went well past the requirements.
 
-  ⚡ **Servers, databases, APIs, and deployment**
-
-  ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
-
-  <br/><br/>
-</details>
+### [BlueGate](https://github.com/Atis007/BlueGate)
+A group project built by a team of five using Scrum. A BLE attendance system split across three parts: a React + TypeScript admin web app, an Expo mobile app for students that broadcasts their identity over Bluetooth, and a Raspberry Pi service that scans BLE advertisements, records attendance to Supabase, and queues records offline when connectivity drops. Includes a custom native BLE advertiser module for React Native.
 
 ---
 
-<details>
-  <summary><h3>🟨 📱 Mobile Development</h3></summary>
+## What I'm working on
 
-  <br/>
-
-  📲 **Cross-platform mobile apps**
-
-  ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-
-  <br/><br/>
-</details>
+- A personal budget tracking app (React Native + Expo, TypeScript, Fastify, Prisma, SQLite, local AI for spending analysis)
+- Going deeper on backend — Node.js, then Go
 
 ---
 
-<details>
-  <summary><h3>🟥 ⚙️ DevOps / Tools</h3></summary>
+## Stack
 
-  <br/>
+**Frontend** — JavaScript, TypeScript, React, React Native, Next.js, Tailwind CSS, Expo  
+**Backend** — PHP 8.4, Node.js, Fastify, Prisma, FastAPI  
+**Databases** — PostgreSQL, MySQL, SQLite, Supabase  
+**Other** — Git, Docker, Ollama, Python, BLE/hardware integration
 
-  🧰 **Tools, infrastructure, and workflow essentials**
+---
 
-  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-
-  <br/><br/>
-</details><br/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📧 tothattila5559@gmail.com · [LinkedIn](https://www.linkedin.com/in/attila-t%C3%B3th-48581a365) · [Portfolio](https://attila-portfolio.vercel.app)
