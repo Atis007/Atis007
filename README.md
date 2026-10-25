@@ -4,15 +4,6 @@
 
 IT graduate of Subotica Tech, based in Serbia. I build web and mobile applications and I'm looking for a junior full-stack role.
 
----
-
-## Currently working on
-
-**[Orbit](https://github.com/Atis007/orbit)** 
-A multi-tenant issue & project tracker (Linear-style). Angular 21 (signals, standalone) + Spring Boot 4 + PostgreSQL. Real-time kanban with drag-and-drop, JWT auth & RBAC, tenant isolation, full-text search, and a full test pyramid (Testcontainers + Playwright).
-
----
-
 ## Projects
 
 **[Ticketflow](https://github.com/Atis007/Ticketflow)**  
